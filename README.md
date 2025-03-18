@@ -8,6 +8,10 @@ This project aims to perform an in-depth analysis of an e-commerce purchases dat
 
 The objective of this project is to analyze the dataset by answering 15 key questions that focus on understanding the dataset structure, identifying trends, and extracting valuable insights from customer purchases.
 
+## Dataset Link:
+
+[Kaggle_Dataset](https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases)
+
 ## Tools & Technologies Used:
 
 Python
